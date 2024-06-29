@@ -1,8 +1,44 @@
 {
-  "payment": { "ResponseCode": "00", "Message": "Success" },
-  "reject": { "ResponseCode": "00", "Message": "Success" },
-  "reversal": { "ResponseCode": "00", "Message": "Success" },
-  "profile": {
-    "name": "agilisa technologies"
+  "payment": { 
+    "ResponseCode": "00", 
+    "Message": "Success" 
+  },
+  "reject": { 
+    "ResponseCode": "00", 
+    "Message": "Success" 
+  },
+  "reversal": { 
+    "ResponseCode": "00", 
+    "Message": "Success" 
+  },
+  "balance": {
+    "ResponseCode": "00",
+    "Message": "Success",
+    "Customer_Name": "Jhon Doe",
+    "Total_Amount": "334.56",
+    "Min_Amount": "3.00",
+    "Max_Amount": "334.56",
+    "ExtData": {
+      "DOB": "2000-03-05",
+      "SSN": "123456"
+    },
+    "Invoices": [
+      {
+        "Number": "1122344",
+        "Date": "2024-01-04",
+        "Total_Amount": "134.56",
+        "Min_Amount": "3.00",
+        "Max_Amount": "134.56",
+        "Description": "multiple services"
+      },
+      {
+        "Number": "1122344",
+        "Date": "2024-01-04",
+        "Total_Amount": "200.00",
+        "Min_Amount": "1.00",
+        "Max_Amount": "200.00",
+        "Description": "multiple services"
+      }
+    ]
   }
 }
