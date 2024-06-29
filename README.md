@@ -1,6 +1,12 @@
-## Try it
+## Webhook response samples
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/agilisa-technologies/webhook](https://my-json-server.typicode.com/agilisa-technologies/webhook)
+
+## Samples 
+- /Balance
+- /Payment
+- /Reject
+- /Reversal
 
 ## Use your own data
 
