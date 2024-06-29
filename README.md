@@ -4,6 +4,7 @@
 
 ## Samples 
 - /Balance
+  -- https://my-json-server.typicode.com/agilisa-technologies/webhook/balance
 - /Payment
 - /Reject
 - /Reversal
