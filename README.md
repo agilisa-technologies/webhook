@@ -2,13 +2,14 @@
 
 [https://my-json-server.typicode.com/agilisa-technologies/webhook](https://my-json-server.typicode.com/agilisa-technologies/webhook)
 
-## Samples 
+## Samples webhook responses
 - /Balance
   -- https://my-json-server.typicode.com/agilisa-technologies/webhook/balance
 - /Payment
+  -- https://my-json-server.typicode.com/agilisa-technologies/webhook/payment
 - /Reject
+  -- https://my-json-server.typicode.com/agilisa-technologies/webhook/reject
 - /Reversal
+  -- https://my-json-server.typicode.com/agilisa-technologies/webhook/reversal
 
-## Use your own data
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
